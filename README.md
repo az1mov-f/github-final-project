@@ -15,9 +15,9 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## JavaScript Kodi.
 
 ```javascript
-function calculateSimpleInterest(principal, rate, time) {
+const calculateSimpleInterest = (principal, rate, time) => {
   return (principal * rate * time) / 100;
-}
+};
 
 // Misol:
 // console.log(calculateSimpleInterest(1000, 5, 2)); // Natija: 100
