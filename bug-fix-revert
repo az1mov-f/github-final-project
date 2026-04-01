@@ -1,0 +1,26 @@
+===========================================
+CURL COMMAND:
+===========================================
+curl -L -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/6542
+
+===========================================
+TERMINAL OUTPUT:
+===========================================
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/6542",
+  "number": 6542,
+  "state": "closed",
+  "title": "changed",
+  "head": {
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "az1mov-f/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
