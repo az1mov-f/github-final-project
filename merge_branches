@@ -1,0 +1,13 @@
+===========================================
+COMMANDS:
+===========================================
+git checkout main
+git merge bug-fix-typo
+
+===========================================
+TERMINAL OUTPUT:
+===========================================
+Updating 5576314..e07d6ac
+Fast-forward
+ README.md | 11 ++++++-----
+ 1 file changed, 6 insertions(+), 5 deletions(-)
