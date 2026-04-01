@@ -1,8 +1,8 @@
-# Simple Interest Calculator
+# Simple Interest Calculator.
 
 Bu loyiha oddiy foiz (simple interest) hisoblaydigan JavaScript kalkulyatori.
 
-## Formula
+## Formula.
 
 Simple Interest = (Principal × Rate × Time) / 100
 
@@ -12,7 +12,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 | Rate      | Foiz stavkasi (%)          |
 | Time      | Vaqt (yil)                 |
 
-## JavaScript Kodi
+## JavaScript Kodi.
 
 ```javascript
 function calculateSimpleInterest(principal, rate, time) {
